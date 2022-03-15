@@ -10,3 +10,75 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.red {
+    margin: auto;
+    display: block;
+    background-color: rgb(233, 0, 0);
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    margin-top: 5px;
+}
+.yellow {
+    margin: auto;
+    display: block;
+    background-color: rgb(245, 220, 0);
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    margin-top: 25px;
+}
+.green{
+    margin: auto;
+    display: block;
+    background-color: rgb(0, 230, 31);
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    margin-top: 25px;
+}
+.redOn {
+    margin: auto;
+    display: block;
+    background-color: rgb(233, 0, 0);
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    border: 10px double rgb(253, 255, 145);
+    margin-top: 5px;
+
+}
+.yellowOn {
+    margin: auto;
+    display: block;
+    background-color: rgb(245, 220, 0);
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    border: 10px double rgb(253, 255, 162);
+    margin-top: 25px;
+}
+.greenOn {
+    margin: auto;
+    display: block;
+    background-color: rgb(0, 230, 31);
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    border: 10px double rgb(253, 255, 145);
+    margin-top: 25px;
+}
+.contenido {
+    padding: 20px;
+    background-color: black;
+    margin: auto;
+    width: 150px;
+    height: 400px;
+    border-radius: 20%;
+}
+.traffictop {
+    background-color: black;
+    margin: auto;
+    width: 30px;
+    height: 150px;
+}
